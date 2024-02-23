@@ -71,7 +71,9 @@ render(
                     </a>
                     <a className="ico" href="https://www.facebook.com/Logigatestech/" target="_blank">
                         {/* <!-- <span class="elementor-screen-only">Facebook-f</span> --> */}
-                        <i class="fab fa-facebook"></i>
+                        // <i class="fab fa-facebook"></i>
+                         <i className="fab fa-facebook-f"></i>
+
                     </a>
                     <a className="ico" href="https://www.linkedin.com/company/77658923/admin/feed/posts/" target="_blank">
                         {/* <!-- <span class="elementor-screen-only">Linkedin-in</span> --> */}
