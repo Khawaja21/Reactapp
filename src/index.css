@@ -28,6 +28,13 @@ margin-left: auto;
 margin-right: auto;
 }
 
+@media (max-width: 768px) {
+  .dj {
+        display: none;
+  }
+}
+
+
 /* Styling for social icons */
 .ico, .fo, .ss {
   background-color: #02010100;
